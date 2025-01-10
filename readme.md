@@ -1,5 +1,8 @@
-## Now for our application, we are going to split the code into 3 parts
+# FLASK TUTORIALS 
 
+## 1. TODO APP
+
+Now for our application, we are going to split the code into 3 parts
 - app.py — the entry & exit point to our application
 - service.py — converts the request into a response.
 - models.py — handles everything that involves a Database.
