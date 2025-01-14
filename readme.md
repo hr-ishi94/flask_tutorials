@@ -1,6 +1,6 @@
 # FLASK TUTORIALS 
 
-## 1. TODO APP
+## 1. TO-DO APP
 
 Now for our application, we are going to split the code into 3 parts
 - app.py — the entry & exit point to our application
